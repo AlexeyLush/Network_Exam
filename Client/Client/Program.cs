@@ -15,7 +15,7 @@ namespace Client
             const string ADD = "ADD";
             const string UPDATE = "UPDATE";
             const string REMOVE = "REMOVE";
-
+            
             while (true)
             {
                 var request = new Request();
